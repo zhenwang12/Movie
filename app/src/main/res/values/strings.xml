@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_home">Now Showing</string>
+    <string name="title_dashboard">Up Coming</string>
+    <string name="title_notifications">Top Rated</string>
+    <string name="movie_detail">Movie Detial</string>
+</resources>
